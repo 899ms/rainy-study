@@ -1,0 +1,23 @@
+{
+  "name": "rainy-study",
+  "version": "1.0.0",
+  "description": "雨夜书房 AFTER HOURS — 可阅读、手写、听故事的 3D 交互书房",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1"
+  },
+  "keywords": [],
+  "author": "andyhuo520",
+  "license": "MIT",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "three": "^0.180.0",
+    "vite": "^6.1.0"
+  },
+  "devDependencies": {
+    "playwright": "^1.63.0"
+  }
+}
